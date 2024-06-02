@@ -1,8 +1,8 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: hellyo guy
-tags: [hello, smartcrow]
+authors: endi
+tags: [hello, docusaurus]
 ---
 
 This is the summary of a very long blog post,
