@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Free and No Sign-Up Required',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Our platform is entirely free to use, with no cumbersome sign-up process. Simply access SmartCrow and start creating smart contracts and unlocking the power of crypto.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Blockchain-Powered Autonomy',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Leveraging blockchain technology, SmartCrow operates in a permissionless and autonomous manner. You have full control over the process without relying on third-party intermediaries.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Chainlink',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        SmartCrow uses Chainlink Functions to provide decentralized Real Estate API system to back the smart contract. This process is fully autonomous.
       </>
     ),
   },
