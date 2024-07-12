@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Introduction
 
+import React from 'react'
+import ReactPlayer from 'react-player/youtube'
+
+<ReactPlayer url='https://www.youtube.com/watch?v=ZJDBZxcj0CE' />
+
+
+
 SmartCrow is an easy-to-use smart contract tool to create a real estate digital escrow. It is designed for real estate professionals and their clients to help facilitate real estate transactions by using blockchain technology, smart contracts, and cryptocurrency. 
 
 ## How It Works
